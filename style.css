@@ -6,14 +6,15 @@
     font-family: 'Poppins', sans-serif;
 }
 body {
-    display: grid;
-    place-items: center;
-    min-height: 100vh;
-    padding: 3rem 0;
-    background-image: url('img.jpg');
-    background-size: cover;
-    background-position: center;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  padding: 3rem 0;
+  background-image: url('./img.jpg');
+  background-size: cover;
+  background-position: center;
 }
+
 
 
 :root {
